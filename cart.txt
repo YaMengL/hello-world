@@ -1,9 +1,0 @@
-cartLiYa
-<<<<<<< HEAD
-
-seconde info
-
-=======
-  
-three Li Info
->>>>>>> three cart shanghai
